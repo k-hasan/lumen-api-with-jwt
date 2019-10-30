@@ -71,7 +71,7 @@ class JWT
     ];
 ```
 
-#### 3. add add in Authentication Controller
+#### 3. add this into Authentication Controller
 ```php
     public function __construct()
     {
