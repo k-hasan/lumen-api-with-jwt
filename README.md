@@ -1,5 +1,7 @@
 # lumen-api-with-jwt
 
+[Install Documentation Link Here](https://jwt-auth.readthedocs.io/en/develop/laravel-installation/)
+## OR
 #### "tymon/jwt-auth": "^1.0.0-rc.2"    composer.json
 ```json
     "require": {
@@ -13,8 +15,7 @@
 ##### Then update [composer update]
 
 
-#### 
-[Install Documentation Link Here](https://jwt-auth.readthedocs.io/en/develop/laravel-installation/)
+
 
 [Exception handling ](https://github.com/tymondesigns/jwt-auth/wiki/Authentication)
 
